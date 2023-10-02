@@ -1,4 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <h1>
+    <br />
+    🤖
+    <br />
+    <code>discord-clone</code>
+    <br />
+    <br />
+  </h1>
+  <p>
+    <br />
+    A Discord clone made with NextJS.
+    <br />
+  </p>
+  <br />
+</div>
 
 ## Getting Started
 
